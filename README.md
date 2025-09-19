@@ -109,6 +109,6 @@ printf("Running ps with execlp. Now with path specified\n");
 <img width="694" height="835" alt="Screenshot 2025-09-19 191845" src="https://github.com/user-attachments/assets/e180fed4-9cfc-453b-9e25-954917b8ed22" />
 
 
-
 # RESULT:
+
 The programs are executed successfully.
